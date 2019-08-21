@@ -1,0 +1,1 @@
+create table claims_track2 as select * from claims where 1=2;
